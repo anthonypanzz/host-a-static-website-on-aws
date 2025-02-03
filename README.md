@@ -34,8 +34,14 @@ This project involves hosting a static HTML web application on AWS, leveraging a
 ![Screenshot 2025-02-02 064534](https://github.com/user-attachments/assets/9c4a881d-1782-4461-b7b3-94d65e204d24)
 12. **GitHub Repository:** Stored web files for version control and collaboration.
 13. **AWS Certificate Manager:** Secured application communications with SSL/TLS certificates.
+![Screenshot 2025-02-02 062117](https://github.com/user-attachments/assets/e01a3d1d-eab9-4aa1-afda-6656cd396d98)
+![Screenshot 2025-02-02 062552](https://github.com/user-attachments/assets/9f5ff19c-dd3e-42d2-a287-e65c0654feb8)
 14. **Simple Notification Service (SNS):** Configured for alerts regarding Auto Scaling Group activities.
 15. **Route 53:** Registered the domain name and configured DNS records.
+![Screenshot 2025-02-02 061127](https://github.com/user-attachments/assets/b9dc7851-96fa-4406-a6bf-b7710105e44f)
+![Screenshot 2025-02-02 062700](https://github.com/user-attachments/assets/6af06082-5e01-4850-ab50-48545679a6f7)
+![Screenshot 2025-02-02 065015](https://github.com/user-attachments/assets/3d051b7c-f671-49de-b381-e7799ce7dd40)
+![Screenshot 2025-02-02 065030](https://github.com/user-attachments/assets/70e67eb7-3379-4d23-827d-caadca21cb2b)
 
 ## Deployment Script
 The following script automates the installation and setup of the web application on an EC2 instance:
