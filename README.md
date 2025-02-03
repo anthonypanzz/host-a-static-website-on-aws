@@ -43,7 +43,7 @@ cd /var/www/html
 yum install git -y
 
 # Clone the project repository
-git clone https://github.com/aosnotes77/host-a-static-website-on-aws.git
+git clone https://github.com/anthonypanzz/host-a-static-website-on-aws.git
 
 # Copy all files from the cloned repository to the web root
 cp -R host-a-static-website-on-aws/. /var/www/html/
