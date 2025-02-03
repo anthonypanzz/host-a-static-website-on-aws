@@ -13,7 +13,7 @@ This project involves hosting a static HTML web application on AWS, leveraging a
 3. **Security Groups:** Implemented as a firewall mechanism to control inbound and outbound traffic.
 ![Screenshot 2025-02-02 060619](https://github.com/user-attachments/assets/303bf695-4b4e-4098-a85d-b45cc25bcd91)
 4. **Multi-AZ Deployment:** Leveraged two Availability Zones to enhance system reliability and fault tolerance.
-
+![Screenshot 2025-02-02 064501](https://github.com/user-attachments/assets/c6959cc9-f29e-41d4-b0a7-513866998bca)
 5. **Public Subnets:** Used for hosting infrastructure components like the NAT Gateway and Application Load Balancer.
 ![Screenshot 2025-02-02 060407](https://github.com/user-attachments/assets/c15e6ed7-0944-4ded-bfdb-e40030fea872)
 6. **EC2 Instance Connect Endpoint:** Ensured secure connections to assets within both public and private subnets.
