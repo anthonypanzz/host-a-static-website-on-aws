@@ -7,6 +7,7 @@ This project involves hosting a static HTML web application on AWS, leveraging a
 
 ## Architecture & Resources Used
 1. **Virtual Private Cloud (VPC):** Configured with both public and private subnets spanning two different availability zones.
+![Screenshot 2025-02-02 060123](https://github.com/user-attachments/assets/c12ba916-b0b0-4945-8cbc-d3c54a3a8013)
 2. **Internet Gateway:** Deployed to facilitate connectivity between VPC instances and the Internet.
 3. **Security Groups:** Implemented as a firewall mechanism to control inbound and outbound traffic.
 4. **Multi-AZ Deployment:** Leveraged two Availability Zones to enhance system reliability and fault tolerance.
