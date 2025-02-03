@@ -23,8 +23,15 @@ This project involves hosting a static HTML web application on AWS, leveraging a
 8. **NAT Gateway:** Enabled instances in private subnets to access the Internet while maintaining security.
 ![Screenshot 2025-02-02 060506](https://github.com/user-attachments/assets/4aa1fa9b-1612-4404-8b61-bdfbca727cc4)
 9. **EC2 Instances:** Hosted the website on Amazon EC2 instances.
+![Screenshot 2025-02-02 064501](https://github.com/user-attachments/assets/bef0c224-6ee2-49ec-bb42-350d8519c5dd)
 10. **Application Load Balancer (ALB):** Used to evenly distribute web traffic across an Auto Scaling Group of EC2 instances.
+![Screenshot 2025-02-02 060918](https://github.com/user-attachments/assets/4916ab6e-eaa1-4505-8e80-5a09ed8637b3)
+![Screenshot 2025-02-02 062320](https://github.com/user-attachments/assets/80abd148-fb42-4c5c-a734-6a87c5cbc18a)
 11. **Auto Scaling Group (ASG):** Automatically managed EC2 instances for high availability, scalability, and fault tolerance.
+![Screenshot 2025-02-02 063523](https://github.com/user-attachments/assets/d167122a-6ade-4952-8a1b-ada5552cf477)
+![Screenshot 2025-02-02 064251](https://github.com/user-attachments/assets/8a1e9821-fc14-4b6e-8f1f-4e7917d71ca4)
+![Screenshot 2025-02-02 064501](https://github.com/user-attachments/assets/5609c4eb-0bf5-4310-85da-46a6717e9064)
+![Screenshot 2025-02-02 064534](https://github.com/user-attachments/assets/9c4a881d-1782-4461-b7b3-94d65e204d24)
 12. **GitHub Repository:** Stored web files for version control and collaboration.
 13. **AWS Certificate Manager:** Secured application communications with SSL/TLS certificates.
 14. **Simple Notification Service (SNS):** Configured for alerts regarding Auto Scaling Group activities.
