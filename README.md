@@ -56,7 +56,7 @@ This project involves hosting a static HTML web application on AWS, leveraging a
 ![Screenshot 2025-02-02 062700](https://github.com/user-attachments/assets/6af06082-5e01-4850-ab50-48545679a6f7)
 ![Screenshot 2025-02-02 065015](https://github.com/user-attachments/assets/3d051b7c-f671-49de-b381-e7799ce7dd40)
 ![Screenshot 2025-02-02 065030](https://github.com/user-attachments/assets/70e67eb7-3379-4d23-827d-caadca21cb2b)
-
+---
 ## Deployment Script
 The following script automates the installation and setup of the web application on an EC2 instance:
 
