@@ -1,6 +1,8 @@
+# Host a Static Website on AWS
+
 ![Alt text](/Host_a_Static_Website_on_AWS.png)
 
-# Host a Static Website on AWS
+---
 
 ## Project Overview
 This project involves hosting a static HTML web application on AWS, leveraging a variety of AWS resources to ensure scalability, security, and reliability. The architecture is designed to provide high availability, fault tolerance, and secure connectivity using AWS best practices.
